@@ -1,0 +1,17 @@
+C:\Users\998885\Desktop\MyApp1\MyApp1\bin\Debug\netcoreapp2.1\MyApp1.deps.json
+C:\Users\998885\Desktop\MyApp1\MyApp1\bin\Debug\netcoreapp2.1\MyApp1.runtimeconfig.json
+C:\Users\998885\Desktop\MyApp1\MyApp1\bin\Debug\netcoreapp2.1\MyApp1.runtimeconfig.dev.json
+C:\Users\998885\Desktop\MyApp1\MyApp1\bin\Debug\netcoreapp2.1\MyApp1.dll
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.csprojAssemblyReference.cache
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.RazorAssemblyInfo.cache
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.RazorAssemblyInfo.cs
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.AssemblyInfoInputs.cache
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.AssemblyInfo.cs
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.RazorTargetAssemblyInfo.cache
+C:\Users\998885\Desktop\MyApp1\MyApp1\bin\Debug\netcoreapp2.1\MyApp1.pdb
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.dll
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.pdb
+C:\Users\998885\Desktop\MyApp1\MyApp1\bin\Debug\netcoreapp2.1\MyApp1.Model.dll
+C:\Users\998885\Desktop\MyApp1\MyApp1\bin\Debug\netcoreapp2.1\MyApp1.Model.pdb
+C:\Users\998885\Desktop\MyApp1\MyApp1\obj\Debug\netcoreapp2.1\MyApp1.csproj.CopyComplete

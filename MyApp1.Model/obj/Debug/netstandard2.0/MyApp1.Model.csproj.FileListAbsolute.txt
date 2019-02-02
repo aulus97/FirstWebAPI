@@ -1,0 +1,9 @@
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\bin\Debug\netstandard2.0\MyApp1.Model.deps.json
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\bin\Debug\netstandard2.0\MyApp1.Model.dll
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\obj\Debug\netstandard2.0\MyApp1.Model.csprojAssemblyReference.cache
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\obj\Debug\netstandard2.0\MyApp1.Model.csproj.CoreCompileInputs.cache
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\obj\Debug\netstandard2.0\MyApp1.Model.AssemblyInfoInputs.cache
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\obj\Debug\netstandard2.0\MyApp1.Model.AssemblyInfo.cs
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\bin\Debug\netstandard2.0\MyApp1.Model.pdb
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\obj\Debug\netstandard2.0\MyApp1.Model.dll
+C:\Users\998885\Desktop\MyApp1\MyApp1.Model\obj\Debug\netstandard2.0\MyApp1.Model.pdb
